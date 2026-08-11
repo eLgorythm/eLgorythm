@@ -1,12 +1,6 @@
+Siap. Ini versi lengkap yang sudah memasukkan **portfolio `https://3l-porto.vercel.app/`**, dengan branding **`elgorythm`** dan gaya dark/Linux/cybersecurity.
+
 # `elgorythm`
-
-```text
-┌──[ elgorythm@github ]─[~]
-└─$ whoami
-
-Linux & Web Administration Enthusiast
-Developer • Security Learner • Open Source Enthusiast
-```
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=elgorythm&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
@@ -16,22 +10,43 @@ Developer • Security Learner • Open Source Enthusiast
   <b>Build • Break • Learn • Repeat</b>
 </p>
 
+<p align="center">
+  <a href="https://3l-porto.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/elgorythm">
+    <img src="https://img.shields.io/badge/GitHub-elgorythm-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 ---
+
+```text
+┌──[ elgorythm@github ]─[~]
+└─$ whoami
+
+Linux & Web Administration Enthusiast
+Developer • Security Learner • Open Source Enthusiast
+```
 
 ## `> About Me`
 
-Hey! I'm **El**, an Informatics Engineering student who enjoys turning ideas into code and breaking things just enough to understand how they work.
+Hey! I'm **El**, an Informatics Engineering student who enjoys turning ideas into code and understanding how things work under the hood.
 
-I'm interested in:
+I'm interested in building software, exploring Linux systems, learning cybersecurity, and experimenting with technologies that solve real problems.
 
-* 🐧 Linux & system administration
-* 🔐 Cybersecurity & security research
-* 🌐 Web development
-* 📱 Android development
-* ⚙️ Automation & developer tooling
-* 🦀 Rust & Python
-* ☁️ Cloud & self-hosted infrastructure
-* 🧪 Experimenting with new technologies
+```text
+┌─ Interests
+│
+├── 🐧 Linux & System Administration
+├── 🔐 Cybersecurity & Security Research
+├── 🌐 Web Development
+├── 📱 Android Development
+├── ⚙️ Automation & Developer Tooling
+├── 🦀 Rust & Python
+├── ☁️ Cloud & Self-Hosting
+└── 🧪 Technology Experiments
+```
 
 ```bash
 $ cat /etc/motd
@@ -46,7 +61,7 @@ Build it better."
 
 ## `> Tech Stack`
 
-### Languages
+### `Languages`
 
 <p>
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB"/>
@@ -55,9 +70,10 @@ Build it better."
   <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4"/>
   <img src="https://img.shields.io/badge/Dart-111111?style=for-the-badge&logo=dart&logoColor=0175C2"/>
   <img src="https://img.shields.io/badge/Kotlin-111111?style=for-the-badge&logo=kotlin&logoColor=7F52FF"/>
+  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
 </p>
 
-### Frameworks & Platforms
+### `Frameworks & Platforms`
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter&logoColor=02569B"/>
@@ -68,7 +84,7 @@ Build it better."
   <img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
 </p>
 
-### Environment & Tools
+### `Environment & Tools`
 
 <p>
   <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624"/>
@@ -76,6 +92,7 @@ Build it better."
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
 </p>
 
 ---
@@ -90,19 +107,21 @@ Build it better."
 [██████████████████████] 100% Curiosity
 ```
 
-Currently exploring:
+### `Currently Exploring`
 
 ```text
 ┌─ Cybersecurity
 │  ├─ Web Security
 │  ├─ Network Security
-│  ├─ Security Research
+│  ├─ Authentication
+│  ├─ Cryptography
 │  └─ Defensive Tooling
 │
 ├─ Development
 │  ├─ Rust
 │  ├─ Python
 │  ├─ Flutter
+│  ├─ Android
 │  └─ Web Development
 │
 └─ Infrastructure
@@ -121,24 +140,44 @@ Currently exploring:
 A Flutter-based Android application focused on wireless ADB pairing, device discovery, logcat streaming, and game wish-data extraction.
 
 ```text
-Flutter
-   │
-   ├── Android / Kotlin
-   │      │
-   │      ├── mDNS Discovery
-   │      ├── Wireless ADB Pairing
-   │      └── Logcat Streaming
-   │
-   └── Rust
-          │
-          └── Cryptographic / Protocol Components
+                         ┌──────────────┐
+                         │    Stellar   │
+                         └──────┬───────┘
+                                │
+                    ┌───────────┴───────────┐
+                    │                       │
+              Flutter UI              Native Android
+                    │                       │
+                    │                 ┌─────┴─────┐
+                    │                 │   Kotlin  │
+                    │                 └─────┬─────┘
+                    │                       │
+                    │              ┌────────┴────────┐
+                    │              │                 │
+                    │         mDNS Discovery    ADB Pairing
+                    │
+                    └──────────────┬───────────────
+                                   │
+                              ┌────┴────┐
+                              │  Rust   │
+                              └─────────┘
 ```
+
+**Focus:**
+
+* Wireless ADB pairing
+* mDNS device discovery
+* Logcat streaming
+* Android tooling
+* Protocol implementation
+* Rust integration
+* Game wish-data parsing
 
 ---
 
 ## `> Security Research`
 
-I enjoy exploring how systems work from both the offensive and defensive perspective.
+I enjoy exploring systems from both offensive and defensive perspectives.
 
 Areas of interest:
 
@@ -149,8 +188,50 @@ Areas of interest:
 * 🛡️ Defensive security tooling
 * ⚙️ Security automation
 * 🧪 Vulnerability research
+* 🔬 Security experimentation
+
+```text
+RESEARCH LOOP
+
+Observe
+   ↓
+Understand
+   ↓
+Experiment
+   ↓
+Analyze
+   ↓
+Document
+   ↓
+Improve
+```
 
 > Security research should only be performed on systems you own or have explicit authorization to test.
+
+---
+
+## `> Linux`
+
+```bash
+$ uname -a
+
+Linux elgorythm
+x86_64 GNU/Linux
+
+$ echo $SHELL
+
+/bin/bash
+
+$ echo $DE
+
+KDE Plasma
+
+$ echo $OS
+
+Fedora Linux
+```
+
+Linux is more than an operating system to me — it's an environment for learning how computers actually work.
 
 ---
 
@@ -162,7 +243,7 @@ Areas of interest:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=elgorythm&theme=github-dark-blue&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com?user=elgorythm&theme=github-dark-blue&hide_border=true&background=0D1117"/>
 </p>
 
 ---
@@ -175,20 +256,30 @@ Areas of interest:
 
 ---
 
-## `> Terminal`
+## `> Portfolio`
 
-```bash
-┌──[elgorythm@github]─[~]
-└─$ neofetch
+<p align="center">
+  <a href="https://3l-porto.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-3l--porto.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
-OS           : Fedora Linux
-DE           : KDE Plasma
-Shell        : Bash / Zsh
-Editor       : VS Code
-Languages    : Python Rust JavaScript PHP Dart Kotlin
-Focus        : Development & Security
-Status       : Building...
-```
+<p align="center">
+  <i>Projects • Skills • Experience • Experiments</i>
+</p>
+
+---
+
+## `> Connect`
+
+<p align="center">
+  <a href="https://github.com/elgorythm">
+    <img src="https://img.shields.io/badge/GitHub-elgorythm-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://3l-porto.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -203,17 +294,39 @@ Status       : Building...
 └─────────────────────────────────────────────┘
 ```
 
-The best way to learn technology is to **build it, break it, understand it, and build it better.**
+> **Build it. Break it. Understand it. Build it better.**
+
+The best way to learn technology is to experiment with it.
 
 ---
 
-## `> Connect`
+## `> System Status`
 
-<p align="center">
-  <a href="https://github.com/elgorythm">
-    <img src="https://img.shields.io/badge/GitHub-elgorythm-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│  USER       : elgorythm                     │
+│  ROLE       : Developer / Security Learner  │
+│  OS         : Fedora Linux                   │
+│  DE         : KDE Plasma                     │
+│  SHELL      : Bash / Zsh                     │
+│  EDITOR     : VS Code                        │
+│  STATUS     : Building...                    │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+```bash
+$ sudo apt install curiosity
+
+[sudo] password for elgorythm: ********
+
+Reading package lists... Done
+Building dependency tree... Done
+Installing curiosity... Done
+
+Curiosity installed successfully.
+```
 
 ---
 
@@ -222,7 +335,7 @@ The best way to learn technology is to **build it, break it, understand it, and 
 ```text
 01001000 01101001
 
-BUILD • BREAK • LEARN
+BUILD • BREAK • LEARN • REPEAT
 
 $ exit
 ```
