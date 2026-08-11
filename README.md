@@ -1,5 +1,3 @@
-Siap. Ini versi lengkap yang sudah memasukkan **portfolio `https://3l-porto.vercel.app/`**, dengan branding **`elgorythm`** dan gaya dark/Linux/cybersecurity.
-
 # `elgorythm`
 
 <p align="center">
