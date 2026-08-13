@@ -46,15 +46,6 @@ I'm interested in building software, exploring Linux systems, learning cybersecu
 └── 🧪 Technology Experiments
 ```
 
-```bash
-$ cat /etc/motd
-
-"Build it.
-Break it.
-Understand it.
-Build it better."
-```
-
 <p align="center">
 
 ```text
