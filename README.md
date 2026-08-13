@@ -55,23 +55,6 @@ Understand it.
 Build it better."
 ```
 
-## `> Philosophy`
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   Don't just use the technology.            │
-│   Understand how it works.                  │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
-> **Build it. Break it. Understand it. Build it better.**
-
-The best way to learn technology is to experiment with it.
-
----
-
 <p align="center">
 
 ```text
