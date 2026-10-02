@@ -13,8 +13,8 @@
 ┌──[ elgorythm@github ]─[~]
 └─$ whoami
 
-Linux & Web Administration Enthusiast
-Developer • Security Learner • Open Source Enthusiast
+Software Developer • Linux Enthusiast
+Systems • Networking • Open Source
 ```
 
 <p align="center">
