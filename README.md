@@ -1,7 +1,4 @@
 # `elgorythm`
-<p align="center">
-  <b>Build • Break • Learn • Repeat</b>
-</p>
 
 <p align="center">
   <a href="https://3l-porto.vercel.app/">
