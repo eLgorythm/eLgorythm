@@ -27,24 +27,6 @@ Linux & Web Administration Enthusiast
 Developer • Security Learner • Open Source Enthusiast
 ```
 
-## `> About Me`
-
-Hey! I'm **El**, an Informatics Engineering student who enjoys turning ideas into code and understanding how things work under the hood.
-
-I'm interested in building software, exploring Linux systems, learning cybersecurity, and experimenting with technologies that solve real problems.
-
-```text
-┌─ Interests
-│
-├── 🐧 Linux & System Administration
-├── 🔐 Cybersecurity & Security Research
-├── 🌐 Web Development
-├── 📱 Android Development
-├── ⚙️ Automation & Developer Tooling
-├── 🦀 Rust & Python
-├── ☁️ Cloud & Self-Hosting
-└── 🧪 Technology Experiments
-```
 <p align="center">
 
 ```text
